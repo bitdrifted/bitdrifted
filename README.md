@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="bitdrifted-banner.jpg" width="100%" alt="bitdrifted terminal banner">
+</p>
+
 # bitdrifted
 
 > Building autonomous systems, breaking assumptions, and trusting as little infrastructure as possible.
